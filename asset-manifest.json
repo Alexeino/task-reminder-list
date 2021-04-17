@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task-reminder-list/static/css/main.d26d7927.chunk.css",
+    "main.js": "/task-reminder-list/static/js/main.b1c22edb.chunk.js",
+    "main.js.map": "/task-reminder-list/static/js/main.b1c22edb.chunk.js.map",
+    "runtime-main.js": "/task-reminder-list/static/js/runtime-main.058a8bde.js",
+    "runtime-main.js.map": "/task-reminder-list/static/js/runtime-main.058a8bde.js.map",
+    "static/js/2.1b6c24eb.chunk.js": "/task-reminder-list/static/js/2.1b6c24eb.chunk.js",
+    "static/js/2.1b6c24eb.chunk.js.map": "/task-reminder-list/static/js/2.1b6c24eb.chunk.js.map",
+    "index.html": "/task-reminder-list/index.html",
+    "static/css/main.d26d7927.chunk.css.map": "/task-reminder-list/static/css/main.d26d7927.chunk.css.map",
+    "static/js/2.1b6c24eb.chunk.js.LICENSE.txt": "/task-reminder-list/static/js/2.1b6c24eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.058a8bde.js",
+    "static/js/2.1b6c24eb.chunk.js",
+    "static/css/main.d26d7927.chunk.css",
+    "static/js/main.b1c22edb.chunk.js"
+  ]
+}
